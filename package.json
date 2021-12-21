@@ -1,6 +1,6 @@
 {
   "name": "zxe-http-client",
-  "version": "0.0.0-hina0",
+  "version": "1.0.0-hina0",
   "description": "Http client",
   "main": "index.js",
   "scripts": {
