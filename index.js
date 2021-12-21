@@ -3,7 +3,7 @@ const HttpResponse = require('./src/HttpResponse');
 
 module.exports = {
     HttpRequest,HttpResponse,
-    http_request(...args){
+    httpRequest(...args){
         return new HttpRequest(...args);
     }
 };
